@@ -1,0 +1,7 @@
+﻿Fronted: se encarga de todo lo que tenga relacion directa con el usuario
+Java scrip es el unico lenguaje de programacion de fronted 
+
+Lenguaje de datos:
+backend: PHP .net Java Ruby and ray 
+
+Diceñar en 320 px
