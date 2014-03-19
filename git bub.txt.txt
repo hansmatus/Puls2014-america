@@ -4,4 +4,4 @@ Java scrip es el unico lenguaje de programacion de fronted
 Lenguaje de datos:
 backend: PHP .net Java Ruby and ray 
 
-Diceñar en 320 px
+Diceñar en 320 px lo minimo 
